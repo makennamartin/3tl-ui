@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/3tl-ui/static/css/main.cedfea37.chunk.css",
+    "main.js": "/3tl-ui/static/js/main.76f783eb.chunk.js",
+    "main.js.map": "/3tl-ui/static/js/main.76f783eb.chunk.js.map",
+    "runtime-main.js": "/3tl-ui/static/js/runtime-main.920a6dfa.js",
+    "runtime-main.js.map": "/3tl-ui/static/js/runtime-main.920a6dfa.js.map",
+    "static/css/2.bb2707cb.chunk.css": "/3tl-ui/static/css/2.bb2707cb.chunk.css",
+    "static/js/2.d6b81873.chunk.js": "/3tl-ui/static/js/2.d6b81873.chunk.js",
+    "static/js/2.d6b81873.chunk.js.map": "/3tl-ui/static/js/2.d6b81873.chunk.js.map",
+    "index.html": "/3tl-ui/index.html",
+    "static/css/2.bb2707cb.chunk.css.map": "/3tl-ui/static/css/2.bb2707cb.chunk.css.map",
+    "static/css/main.cedfea37.chunk.css.map": "/3tl-ui/static/css/main.cedfea37.chunk.css.map",
+    "static/js/2.d6b81873.chunk.js.LICENSE.txt": "/3tl-ui/static/js/2.d6b81873.chunk.js.LICENSE.txt",
+    "static/js/main.76f783eb.chunk.js.LICENSE.txt": "/3tl-ui/static/js/main.76f783eb.chunk.js.LICENSE.txt",
+    "static/media/allblue-trans.png": "/3tl-ui/static/media/allblue-trans.d44fb0ba.png",
+    "static/media/azure.9b21ac79.png": "/3tl-ui/static/media/azure.9b21ac79.png",
+    "static/media/blacksxt.f7021ec6.png": "/3tl-ui/static/media/blacksxt.f7021ec6.png",
+    "static/media/eth2.b3ec96d9.svg": "/3tl-ui/static/media/eth2.b3ec96d9.svg",
+    "static/media/all.min.css": "/3tl-ui/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/github.svg": "/3tl-ui/static/media/github.6c955556.svg",
+    "static/media/google.svg": "/3tl-ui/static/media/google.eae9aa93.svg",
+    "static/media/mm.svg": "/3tl-ui/static/media/mm.830735e3.svg",
+    "static/media/mongodb.62f6b1e4.png": "/3tl-ui/static/media/mongodb.62f6b1e4.png",
+    "static/media/mysql.5c146a11.png": "/3tl-ui/static/media/mysql.5c146a11.png",
+    "static/media/nucleo.css": "/3tl-ui/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/postgresql.b07d42bf.png": "/3tl-ui/static/media/postgresql.b07d42bf.png",
+    "static/media/snowflake.60e7e6f3.png": "/3tl-ui/static/media/snowflake.60e7e6f3.png",
+    "static/media/sxt.png": "/3tl-ui/static/media/sxt.27d81bed.png",
+    "static/media/team-1-800x800.jpg": "/3tl-ui/static/media/team-1-800x800.fa5a7ac2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.920a6dfa.js",
+    "static/css/2.bb2707cb.chunk.css",
+    "static/js/2.d6b81873.chunk.js",
+    "static/css/main.cedfea37.chunk.css",
+    "static/js/main.76f783eb.chunk.js"
+  ]
+}
